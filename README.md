@@ -3,7 +3,7 @@ A personal script for grabbing info from pubmed, scholarscope and sci-hub. Inclu
 example_result:
 ![img](https://github.com/Knight-oOf-Night/grab-pubmed-info/blob/master/example_result.jpg)
 
-Warning: "download_pdf" function may give a very low successful rate
+Warning: "download_pdf" function may give a very low successful rate.
 Dependencies:
 Biopython
 requests
