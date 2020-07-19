@@ -1,9 +1,9 @@
 # grab-pubmed-info
-A personal script for grabbing info from pubmed, scholarscope and sci-hub.
+A personal script for grabbing info from pubmed, scholarscope and sci-hub. Including ID,title,journal,IF,publish date,abstract,doi and provide a function to download pdf.
 example_result:
 ![img](https://github.com/Knight-oOf-Night/grab-pubmed-info/blob/master/example_result.jpg)
 
-Warning: "download pdf" function may give a very low successful rate
+Warning: "download_pdf" function may give a very low successful rate
 Dependencies:
 Biopython
 requests
